@@ -464,3 +464,16 @@ v1.0.0
 Built for Developers • DBAs • Data Engineers • Analysts
 
 </div>
+
+SCREENSHOTS 
+<img width="1919" height="1006" alt="SchemaLence" src="https://github.com/user-attachments/assets/925b88ce-67c5-444c-ab7a-dcf9db1b8e76" />
+|->
+<img width="1916" height="1003" alt="1" src="https://github.com/user-attachments/assets/ff310fc2-b7c2-4851-8908-a95729e10a97" />
+|->
+<img width="1904" height="1004" alt="2" src="https://github.com/user-attachments/assets/f9260895-d6a0-43b4-b148-7f917b097eb3" />
+|->
+<img width="1919" height="1005" alt="3" src="https://github.com/user-attachments/assets/e202e772-3c55-4a98-a1cd-b63465d333d9" />
+|->
+<img width="1919" height="1003" alt="4" src="https://github.com/user-attachments/assets/6ed864df-606d-41bc-ab71-0c60b7839c6e" />
+
+
