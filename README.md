@@ -462,9 +462,7 @@ v1.0.0
 ### ⚡ Explore PostgreSQL Schemas Faster
 
 Built for Developers • DBAs • Data Engineers • Analysts
-
-</div>
-
+##
 SCREENSHOTS 
 <img width="1919" height="1006" alt="SchemaLence" src="https://github.com/user-attachments/assets/925b88ce-67c5-444c-ab7a-dcf9db1b8e76" />
 |->
@@ -476,4 +474,5 @@ SCREENSHOTS
 |->
 <img width="1919" height="1003" alt="4" src="https://github.com/user-attachments/assets/6ed864df-606d-41bc-ab71-0c60b7839c6e" />
 
+</div>
 
