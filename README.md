@@ -134,26 +134,6 @@ Features:
 
 ---
 
-## 🖼️ Screenshots
-
-SchemaLence features a modern cyberpunk-inspired interface with:
-
-* Dark professional workspace
-* Neon cyan accent colors
-* High-contrast readability
-* Developer-focused layout
-* Responsive navigation panels
-
-The futuristic design provides an immersive yet productive environment for database exploration.
-
-> Add screenshots here as the project evolves.
-
-```md
-![Dashboard](screenshots/dashboard.png)
-![Schema View](screenshots/schema-view.png)
-![Data Grid](screenshots/data-grid.png)
-```
-
 ---
 
 # 📋 Prerequisites
@@ -482,7 +462,5 @@ v1.0.0
 ### ⚡ Explore PostgreSQL Schemas Faster
 
 Built for Developers • DBAs • Data Engineers • Analysts
-
-⭐ Star the repository if you find SchemaLence useful.
 
 </div>
