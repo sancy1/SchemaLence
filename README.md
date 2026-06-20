@@ -457,6 +457,9 @@ v1.0.0
 
 ---
 
+- Live Demo:	http://localhost:3000/portfolio/download/schemalence
+- Email:	alexander.s.cyril@gmail.com
+
 <div align="center">
 
 ### ⚡ Explore PostgreSQL Schemas Faster
